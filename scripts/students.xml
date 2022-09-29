@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+    xmlns:x="urn:schemas-microsoft-com:office:excel"
+    xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+    xmlns:html="https://www.w3.org/TR/html401/">
+    <Worksheet ss:Name="University_Students_Info">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+<Row>
+<Cell><Data ss:Type="String">student_id</Data></Cell>
+<Cell><Data ss:Type="String">first_name</Data></Cell>
+<Cell><Data ss:Type="String">last_name</Data></Cell>
+<Cell><Data ss:Type="String">country_of_birth</Data></Cell>
+<Cell><Data ss:Type="String">major</Data></Cell>
+<Cell><Data ss:Type="String">scholarship</Data></Cell>
+<Cell><Data ss:Type="String">expected_grad_year</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="Number">1</Data></Cell>
+<Cell><Data ss:Type="String">James</Data></Cell>
+<Cell><Data ss:Type="String">Taylor</Data></Cell>
+<Cell><Data ss:Type="String">USA</Data></Cell>
+<Cell><Data ss:Type="String">Biology</Data></Cell>
+<Cell><Data ss:Type="String">No</Data></Cell>
+<Cell><Data ss:Type="Number">2025</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="Number">2</Data></Cell>
+<Cell><Data ss:Type="String">Michelle</Data></Cell>
+<Cell><Data ss:Type="String">Johnson</Data></Cell>
+<Cell><Data ss:Type="String">England</Data></Cell>
+<Cell><Data ss:Type="String">Chemistry</Data></Cell>
+<Cell><Data ss:Type="String">Yes</Data></Cell>
+<Cell><Data ss:Type="Number">2026</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="Number">3</Data></Cell>
+<Cell><Data ss:Type="String">Wilson</Data></Cell>
+<Cell><Data ss:Type="String">Lee</Data></Cell>
+<Cell><Data ss:Type="String">China</Data></Cell>
+<Cell><Data ss:Type="String">Geography</Data></Cell>
+<Cell><Data ss:Type="String">Yes</Data></Cell>
+<Cell><Data ss:Type="Number">2025</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>

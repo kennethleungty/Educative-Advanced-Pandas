@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <record>
+        <customer_id>1</customer_id>
+        <first_name>Amabelle</first_name>
+        <last_name>Esposito</last_name>
+        <email>aesposito0@reverbnation.com</email>
+        <gender>Female</gender>
+        <country>Peru</country>
+    </record>
+    <record>
+        <customer_id>2</customer_id>
+        <first_name>Shaughn</first_name>
+        <last_name>Brothwell</last_name>
+        <email>sbrothwell1@aboutads.info</email>
+        <gender>Genderqueer</gender>
+        <country>Yemen</country>
+    </record>
+    <record>
+        <customer_id>3</customer_id>
+        <first_name>Merridie</first_name>
+        <last_name>Skowcraft</last_name>
+        <email>mskowcraft2@chron.com</email>
+        <gender>Female</gender>
+        <country>Albania</country>
+    </record>
+    <record>
+        <customer_id>4</customer_id>
+        <first_name>Susi</first_name>
+        <last_name>Burstowe</last_name>
+        <email>sburstowe3@amazon.co.jp</email>
+        <gender>Female</gender>
+        <country>Russia</country>
+    </record>
+    <record>
+        <customer_id>5</customer_id>
+        <first_name>Currey</first_name>
+        <last_name>Loughead</last_name>
+        <email>cloughead4@eepurl.com</email>
+        <gender>Male</gender>
+        <country>China</country>
+    </record>
+</dataset>
