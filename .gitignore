@@ -1,6 +1,9 @@
 # Administrative
 admin/
 
+# Virtual environment
+adv_pandas_venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
