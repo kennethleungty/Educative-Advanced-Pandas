@@ -1,5 +1,6 @@
 # Administrative
 admin/
+*.pptx
 
 # Virtual environment
 adv_pandas_venv/
