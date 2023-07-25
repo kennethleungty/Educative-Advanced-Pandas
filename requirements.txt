@@ -1,11 +1,10 @@
-dataframe-sql==0.4.0
-fsspec==2022.8.2
+fsspec==2023.6.0
 geopandas==0.13.2
 html5lib==1.1
 jupyter==1.0.0
 lxml==4.9.1
 pandas==2.0.3
-pandasai==0.6.11
+pandasai==0.4.0
 pandas-profiling==3.6.6
 pandarallel==1.6.5
 polars==0.18.7
