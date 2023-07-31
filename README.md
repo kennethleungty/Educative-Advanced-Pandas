@@ -1,1 +1,1 @@
-# Educative-Advanced-Pandas
+# Advanced pandas - Going Beyond the Basics (Educative Course)
