@@ -39,3 +39,6 @@
 'generate pivot table of gender and profession, with the values being average annual income', (19456, 127)
 'return me a dataframe where the annual income is divided by 100', (19968, 58)
 '\n        return me a dataframe that normalizes age by \n        subtracting mean and dividing by standard deviation\n        ', (20480, 232)
+'give me a dataframe that fills in the missing data', (20992, 125)
+'give me a dataframe that fills in the missing data with a string', (21504, 57)
+'merge these two dataframes based on the index CustomerID', (22016, 100)
