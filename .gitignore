@@ -1,5 +1,6 @@
 # Administrative
 admin/
+docker_setup/
 *.pptx
 
 # Virtual environment
