@@ -1,5 +1,6 @@
 # Administrative
 admin/
+archive/
 docker_setup/
 *.pptx
 
